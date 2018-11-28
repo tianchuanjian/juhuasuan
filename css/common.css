@@ -1,0 +1,30 @@
+*{margin: 0; padding: 0;}
+img{border:none;}
+ul{list-style:none;}
+.w_1190{
+    width: 1190px;
+    margin: 0 auto;
+}
+body{
+    color: #666666;
+    font-size: 12px;
+}
+a{
+    color:#666666;
+    text-decoration: none;
+}
+a:hover{
+    color:#e61414
+}
+.top_ad{
+    height: 80px;
+    text-align: center;
+    background: #ec0037;
+}
+.top_ad a{
+    display: block;
+    width: 1902px;
+    height: 80px;
+    margin:0 auto;
+}
+.d_b{display: block;}
